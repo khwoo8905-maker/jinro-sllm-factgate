@@ -1,0 +1,5 @@
+.env
+careernet_*.json
+careernet_*.npy
+*.safetensors
+*.pt
